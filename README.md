@@ -30,4 +30,6 @@ ERD DIAGRAM
 
 ## SQL QUARIES:
 
+https://github.com/avinashsinku812/Apple_Retail_Sales_SQL_Project/blob/main/APPLE%20SQL%20queriesL.docx
+
 
