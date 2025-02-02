@@ -1,0 +1,75 @@
+store_id,store_name,city,country
+ST-1,Staples,Dallas,Mexico
+ST-2,Dick's Sporting Goods,Dallas,UK
+ST-3,E-Mart,San Francisco,USA
+ST-4,Shoppers Stop,Seattle,Canada
+ST-5,Apple Store,Dallas,Australia
+ST-6,AEON,Chicago,USA
+ST-7,Whole Foods,Miami,Japan
+ST-8,Safeway,Miami,Brazil
+ST-9,Bed Bath & Beyond,Los Angeles,UK
+ST-10,Burlington,Boston,Australia
+ST-11,Daiso,Seattle,Brazil
+ST-12,Aldi,San Francisco,USA
+ST-13,Dollar Tree,Dallas,Germany
+ST-14,Target,Los Angeles,Germany
+ST-15,Home Depot,San Francisco,Brazil
+ST-16,Puma,Boston,USA
+ST-17,Metro,Houston,Australia
+ST-18,Publix,Miami,Australia
+ST-19,Lidl,Boston,UK
+ST-20,H&M,Chicago,France
+ST-21,Best Buy,Boston,USA
+ST-22,Costco,Chicago,UK
+ST-23,Sam's Club,San Francisco,UK
+ST-24,Nike,Houston,Mexico
+ST-25,Gap,Denver,France
+ST-26,Sainsbury's,Boston,Japan
+ST-27,Harrods,Boston,Mexico
+ST-28,Microsoft Store,Boston,France
+ST-29,Uniqlo,Los Angeles,Germany
+ST-30,Zara,Chicago,Japan
+ST-31,TJ Maxx,Los Angeles,Japan
+ST-32,IKEA,Miami,Mexico
+ST-33,7-Eleven,Boston,Australia
+ST-34,Lotte Mart,San Francisco,Mexico
+ST-35,H-E-B,Miami,Canada
+ST-36,GameStop,Chicago,France
+ST-37,Victoria's Secret,Houston,Germany
+ST-38,Petco,Chicago,Brazil
+ST-39,Muji,Miami,USA
+ST-40,PetSmart,Boston,Germany
+ST-41,Miniso,Dallas,Canada
+ST-42,Foot Locker,Seattle,Australia
+ST-43,Office Depot,Seattle,France
+ST-44,Carrefour,Houston,France
+ST-45,Asda,Denver,Germany
+ST-46,Banana Republic,Dallas,Japan
+ST-47,Morrisons,Los Angeles,Germany
+ST-48,Auchan,Houston,Mexico
+ST-49,7&I Holdings,Chicago,Germany
+ST-50,DSW,New York,France
+ST-51,Bath & Body Works,New York,Japan
+ST-52,Nordstrom,Denver,Mexico
+ST-53,Toys 'R' Us,Houston,UK
+ST-54,Big Bazaar,Denver,Brazil
+ST-55,Dollar General,New York,UK
+ST-56,Walgreens,Boston,Germany
+ST-57,Trader Joe's,Chicago,USA
+ST-58,Under Armour,San Francisco,Brazil
+ST-59,Macy's,Los Angeles,Canada
+ST-60,Sephora,Denver,USA
+ST-61,Tesco,Houston,Japan
+ST-62,Walmart,Los Angeles,Germany
+ST-63,Selfridges,Los Angeles,Australia
+ST-64,Ross Stores,Seattle,Brazil
+ST-65,Barnes & Noble,Seattle,UK
+ST-66,Shinsegae,Dallas,Australia
+ST-67,Adidas,San Francisco,Japan
+ST-68,REI,New York,Canada
+ST-69,Marshalls,Los Angeles,Mexico
+ST-70,CVS Pharmacy,Seattle,France
+ST-71,Family Dollar,Boston,USA
+ST-72,Old Navy,Miami,France
+ST-73,Kroger,New York,France
+ST-74,Lowe's,Dallas,Australia
